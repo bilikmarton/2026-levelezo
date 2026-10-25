@@ -1,0 +1,2 @@
+#első konzultáció
+print("Szia")
